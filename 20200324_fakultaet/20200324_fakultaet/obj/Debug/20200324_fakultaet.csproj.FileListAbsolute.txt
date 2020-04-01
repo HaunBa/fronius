@@ -1,0 +1,10 @@
+C:\Users\Bamsti\Desktop\Fragna stuff\HÜ\SEW\20200324_fakultaet\20200324_fakultaet\bin\Debug\20200324_fakultaet.exe.config
+C:\Users\Bamsti\Desktop\Fragna stuff\HÜ\SEW\20200324_fakultaet\20200324_fakultaet\bin\Debug\20200324_fakultaet.exe
+C:\Users\Bamsti\Desktop\Fragna stuff\HÜ\SEW\20200324_fakultaet\20200324_fakultaet\bin\Debug\20200324_fakultaet.pdb
+C:\Users\Bamsti\Desktop\Fragna stuff\HÜ\SEW\20200324_fakultaet\20200324_fakultaet\obj\Debug\20200324_fakultaet.csprojAssemblyReference.cache
+C:\Users\Bamsti\Desktop\Fragna stuff\HÜ\SEW\20200324_fakultaet\20200324_fakultaet\obj\Debug\_20200324_fakultaet.Form1.resources
+C:\Users\Bamsti\Desktop\Fragna stuff\HÜ\SEW\20200324_fakultaet\20200324_fakultaet\obj\Debug\_20200324_fakultaet.Properties.Resources.resources
+C:\Users\Bamsti\Desktop\Fragna stuff\HÜ\SEW\20200324_fakultaet\20200324_fakultaet\obj\Debug\20200324_fakultaet.csproj.GenerateResource.cache
+C:\Users\Bamsti\Desktop\Fragna stuff\HÜ\SEW\20200324_fakultaet\20200324_fakultaet\obj\Debug\20200324_fakultaet.csproj.CoreCompileInputs.cache
+C:\Users\Bamsti\Desktop\Fragna stuff\HÜ\SEW\20200324_fakultaet\20200324_fakultaet\obj\Debug\20200324_fakultaet.exe
+C:\Users\Bamsti\Desktop\Fragna stuff\HÜ\SEW\20200324_fakultaet\20200324_fakultaet\obj\Debug\20200324_fakultaet.pdb
