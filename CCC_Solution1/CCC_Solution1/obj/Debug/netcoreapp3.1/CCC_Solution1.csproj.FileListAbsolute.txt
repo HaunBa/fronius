@@ -1,0 +1,13 @@
+C:\Users\Bamsti\source\repos\CCC_Solution1\CCC_Solution1\bin\Debug\netcoreapp3.1\CCC_Solution1.exe
+C:\Users\Bamsti\source\repos\CCC_Solution1\CCC_Solution1\bin\Debug\netcoreapp3.1\CCC_Solution1.deps.json
+C:\Users\Bamsti\source\repos\CCC_Solution1\CCC_Solution1\bin\Debug\netcoreapp3.1\CCC_Solution1.runtimeconfig.json
+C:\Users\Bamsti\source\repos\CCC_Solution1\CCC_Solution1\bin\Debug\netcoreapp3.1\CCC_Solution1.runtimeconfig.dev.json
+C:\Users\Bamsti\source\repos\CCC_Solution1\CCC_Solution1\bin\Debug\netcoreapp3.1\CCC_Solution1.dll
+C:\Users\Bamsti\source\repos\CCC_Solution1\CCC_Solution1\bin\Debug\netcoreapp3.1\CCC_Solution1.pdb
+C:\Users\Bamsti\source\repos\CCC_Solution1\CCC_Solution1\obj\Debug\netcoreapp3.1\CCC_Solution1.csprojAssemblyReference.cache
+C:\Users\Bamsti\source\repos\CCC_Solution1\CCC_Solution1\obj\Debug\netcoreapp3.1\CCC_Solution1.csproj.CoreCompileInputs.cache
+C:\Users\Bamsti\source\repos\CCC_Solution1\CCC_Solution1\obj\Debug\netcoreapp3.1\CCC_Solution1.AssemblyInfoInputs.cache
+C:\Users\Bamsti\source\repos\CCC_Solution1\CCC_Solution1\obj\Debug\netcoreapp3.1\CCC_Solution1.AssemblyInfo.cs
+C:\Users\Bamsti\source\repos\CCC_Solution1\CCC_Solution1\obj\Debug\netcoreapp3.1\CCC_Solution1.dll
+C:\Users\Bamsti\source\repos\CCC_Solution1\CCC_Solution1\obj\Debug\netcoreapp3.1\CCC_Solution1.pdb
+C:\Users\Bamsti\source\repos\CCC_Solution1\CCC_Solution1\obj\Debug\netcoreapp3.1\CCC_Solution1.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\Bamsti\source\repos\20200328_arraystack\20200328_arraystack\bin\Debug\20200328_arraystack.exe.config
+C:\Users\Bamsti\source\repos\20200328_arraystack\20200328_arraystack\bin\Debug\20200328_arraystack.exe
+C:\Users\Bamsti\source\repos\20200328_arraystack\20200328_arraystack\bin\Debug\20200328_arraystack.pdb
+C:\Users\Bamsti\source\repos\20200328_arraystack\20200328_arraystack\obj\Debug\20200328_arraystack.csprojAssemblyReference.cache
+C:\Users\Bamsti\source\repos\20200328_arraystack\20200328_arraystack\obj\Debug\_20200328_arraystack.Form1.resources
+C:\Users\Bamsti\source\repos\20200328_arraystack\20200328_arraystack\obj\Debug\_20200328_arraystack.Properties.Resources.resources
+C:\Users\Bamsti\source\repos\20200328_arraystack\20200328_arraystack\obj\Debug\20200328_arraystack.csproj.GenerateResource.cache
+C:\Users\Bamsti\source\repos\20200328_arraystack\20200328_arraystack\obj\Debug\20200328_arraystack.csproj.CoreCompileInputs.cache
+C:\Users\Bamsti\source\repos\20200328_arraystack\20200328_arraystack\obj\Debug\20200328_arraystack.exe
+C:\Users\Bamsti\source\repos\20200328_arraystack\20200328_arraystack\obj\Debug\20200328_arraystack.pdb
