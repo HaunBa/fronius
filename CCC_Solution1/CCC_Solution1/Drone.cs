@@ -10,11 +10,9 @@ namespace CCC_Solution1
 		private int speed;
         private string direction;
         private int[] location;
-        private int id;
 
-		public Drone(int id, string direction, int speed, int[] location)
+		public Drone(string direction, int speed, int[] location)
 		{
-            ID = id;
 			Speed = speed;
 			Direction = direction;
 			Location = location;
@@ -38,10 +36,5 @@ namespace CCC_Solution1
 			set { location = value; }
 		}
 
-		public int ID
-		{
-			get { return id; }
-			set { id = value; }
-		}
 	}
 }

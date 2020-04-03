@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bamsti\\source\\repos\\CCC_Solution1\\CCC_Solution1\\CCC_Solution1.csproj": {}
+    "C:\\Users\\Bamsti\\Documents\\GitHub\\fronius\\CCC_Solution1\\CCC_Solution1\\CCC_Solution1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bamsti\\source\\repos\\CCC_Solution1\\CCC_Solution1\\CCC_Solution1.csproj": {
+    "C:\\Users\\Bamsti\\Documents\\GitHub\\fronius\\CCC_Solution1\\CCC_Solution1\\CCC_Solution1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bamsti\\source\\repos\\CCC_Solution1\\CCC_Solution1\\CCC_Solution1.csproj",
+        "projectUniqueName": "C:\\Users\\Bamsti\\Documents\\GitHub\\fronius\\CCC_Solution1\\CCC_Solution1\\CCC_Solution1.csproj",
         "projectName": "CCC_Solution1",
-        "projectPath": "C:\\Users\\Bamsti\\source\\repos\\CCC_Solution1\\CCC_Solution1\\CCC_Solution1.csproj",
+        "projectPath": "C:\\Users\\Bamsti\\Documents\\GitHub\\fronius\\CCC_Solution1\\CCC_Solution1\\CCC_Solution1.csproj",
         "packagesPath": "C:\\Users\\Bamsti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bamsti\\source\\repos\\CCC_Solution1\\CCC_Solution1\\obj\\",
+        "outputPath": "C:\\Users\\Bamsti\\Documents\\GitHub\\fronius\\CCC_Solution1\\CCC_Solution1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
