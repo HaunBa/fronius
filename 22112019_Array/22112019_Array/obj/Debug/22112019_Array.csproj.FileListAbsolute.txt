@@ -1,0 +1,10 @@
+C:\Users\Haunschmied.Bastian\source\repos\22112019_Array\22112019_Array\bin\Debug\22112019_Array.exe.config
+C:\Users\Haunschmied.Bastian\source\repos\22112019_Array\22112019_Array\bin\Debug\22112019_Array.exe
+C:\Users\Haunschmied.Bastian\source\repos\22112019_Array\22112019_Array\bin\Debug\22112019_Array.pdb
+C:\Users\Haunschmied.Bastian\source\repos\22112019_Array\22112019_Array\obj\Debug\22112019_Array.csprojResolveAssemblyReference.cache
+C:\Users\Haunschmied.Bastian\source\repos\22112019_Array\22112019_Array\obj\Debug\_22112019_Array.Form1.resources
+C:\Users\Haunschmied.Bastian\source\repos\22112019_Array\22112019_Array\obj\Debug\_22112019_Array.Properties.Resources.resources
+C:\Users\Haunschmied.Bastian\source\repos\22112019_Array\22112019_Array\obj\Debug\22112019_Array.csproj.GenerateResource.Cache
+C:\Users\Haunschmied.Bastian\source\repos\22112019_Array\22112019_Array\obj\Debug\22112019_Array.csproj.CoreCompileInputs.cache
+C:\Users\Haunschmied.Bastian\source\repos\22112019_Array\22112019_Array\obj\Debug\22112019_Array.exe
+C:\Users\Haunschmied.Bastian\source\repos\22112019_Array\22112019_Array\obj\Debug\22112019_Array.pdb

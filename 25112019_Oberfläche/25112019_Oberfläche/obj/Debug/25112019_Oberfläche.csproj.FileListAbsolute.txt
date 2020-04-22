@@ -1,0 +1,10 @@
+C:\Users\Haunschmied.Bastian\source\repos\25112019_Oberfläche\25112019_Oberfläche\bin\Debug\25112019_Oberfläche.exe.config
+C:\Users\Haunschmied.Bastian\source\repos\25112019_Oberfläche\25112019_Oberfläche\bin\Debug\25112019_Oberfläche.exe
+C:\Users\Haunschmied.Bastian\source\repos\25112019_Oberfläche\25112019_Oberfläche\bin\Debug\25112019_Oberfläche.pdb
+C:\Users\Haunschmied.Bastian\source\repos\25112019_Oberfläche\25112019_Oberfläche\obj\Debug\25112019_Oberfläche.csprojResolveAssemblyReference.cache
+C:\Users\Haunschmied.Bastian\source\repos\25112019_Oberfläche\25112019_Oberfläche\obj\Debug\_25112019_Oberfläche.Form1.resources
+C:\Users\Haunschmied.Bastian\source\repos\25112019_Oberfläche\25112019_Oberfläche\obj\Debug\_25112019_Oberfläche.Properties.Resources.resources
+C:\Users\Haunschmied.Bastian\source\repos\25112019_Oberfläche\25112019_Oberfläche\obj\Debug\25112019_Oberfläche.csproj.GenerateResource.Cache
+C:\Users\Haunschmied.Bastian\source\repos\25112019_Oberfläche\25112019_Oberfläche\obj\Debug\25112019_Oberfläche.csproj.CoreCompileInputs.cache
+C:\Users\Haunschmied.Bastian\source\repos\25112019_Oberfläche\25112019_Oberfläche\obj\Debug\25112019_Oberfläche.exe
+C:\Users\Haunschmied.Bastian\source\repos\25112019_Oberfläche\25112019_Oberfläche\obj\Debug\25112019_Oberfläche.pdb

@@ -1,0 +1,10 @@
+c:\users\haunschmied.bastian\source\repos\29112019_Bibliothek\29112019_Bibliothek\bin\Debug\29112019_Bibliothek.exe.config
+c:\users\haunschmied.bastian\source\repos\29112019_Bibliothek\29112019_Bibliothek\bin\Debug\29112019_Bibliothek.exe
+c:\users\haunschmied.bastian\source\repos\29112019_Bibliothek\29112019_Bibliothek\bin\Debug\29112019_Bibliothek.pdb
+c:\users\haunschmied.bastian\source\repos\29112019_Bibliothek\29112019_Bibliothek\obj\Debug\29112019_Bibliothek.csprojResolveAssemblyReference.cache
+c:\users\haunschmied.bastian\source\repos\29112019_Bibliothek\29112019_Bibliothek\obj\Debug\_29112019_Bibliothek.Form1.resources
+c:\users\haunschmied.bastian\source\repos\29112019_Bibliothek\29112019_Bibliothek\obj\Debug\_29112019_Bibliothek.Properties.Resources.resources
+c:\users\haunschmied.bastian\source\repos\29112019_Bibliothek\29112019_Bibliothek\obj\Debug\29112019_Bibliothek.csproj.GenerateResource.Cache
+c:\users\haunschmied.bastian\source\repos\29112019_Bibliothek\29112019_Bibliothek\obj\Debug\29112019_Bibliothek.csproj.CoreCompileInputs.cache
+c:\users\haunschmied.bastian\source\repos\29112019_Bibliothek\29112019_Bibliothek\obj\Debug\29112019_Bibliothek.exe
+c:\users\haunschmied.bastian\source\repos\29112019_Bibliothek\29112019_Bibliothek\obj\Debug\29112019_Bibliothek.pdb

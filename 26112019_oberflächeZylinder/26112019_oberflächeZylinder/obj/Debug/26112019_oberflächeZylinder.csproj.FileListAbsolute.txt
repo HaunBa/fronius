@@ -1,0 +1,10 @@
+C:\Users\Haunschmied.Bastian\source\repos\26112019_oberflächeZylinder\26112019_oberflächeZylinder\bin\Debug\26112019_oberflächeZylinder.exe.config
+C:\Users\Haunschmied.Bastian\source\repos\26112019_oberflächeZylinder\26112019_oberflächeZylinder\bin\Debug\26112019_oberflächeZylinder.exe
+C:\Users\Haunschmied.Bastian\source\repos\26112019_oberflächeZylinder\26112019_oberflächeZylinder\bin\Debug\26112019_oberflächeZylinder.pdb
+C:\Users\Haunschmied.Bastian\source\repos\26112019_oberflächeZylinder\26112019_oberflächeZylinder\obj\Debug\26112019_oberflächeZylinder.csprojResolveAssemblyReference.cache
+C:\Users\Haunschmied.Bastian\source\repos\26112019_oberflächeZylinder\26112019_oberflächeZylinder\obj\Debug\_26112019_oberflächeZylinder.Form1.resources
+C:\Users\Haunschmied.Bastian\source\repos\26112019_oberflächeZylinder\26112019_oberflächeZylinder\obj\Debug\_26112019_oberflächeZylinder.Properties.Resources.resources
+C:\Users\Haunschmied.Bastian\source\repos\26112019_oberflächeZylinder\26112019_oberflächeZylinder\obj\Debug\26112019_oberflächeZylinder.csproj.GenerateResource.Cache
+C:\Users\Haunschmied.Bastian\source\repos\26112019_oberflächeZylinder\26112019_oberflächeZylinder\obj\Debug\26112019_oberflächeZylinder.csproj.CoreCompileInputs.cache
+C:\Users\Haunschmied.Bastian\source\repos\26112019_oberflächeZylinder\26112019_oberflächeZylinder\obj\Debug\26112019_oberflächeZylinder.exe
+C:\Users\Haunschmied.Bastian\source\repos\26112019_oberflächeZylinder\26112019_oberflächeZylinder\obj\Debug\26112019_oberflächeZylinder.pdb

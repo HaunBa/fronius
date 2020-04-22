@@ -1,0 +1,5 @@
+C:\Users\Haunschmied.Bastian\source\repos\22112019_Mittelwert\22112019_Mittelwert\obj\Debug\22112019_Mittelwert.csprojResolveAssemblyReference.cache
+C:\Users\Haunschmied.Bastian\source\repos\22112019_Mittelwert\22112019_Mittelwert\obj\Debug\_22112019_Mittelwert.Form1.resources
+C:\Users\Haunschmied.Bastian\source\repos\22112019_Mittelwert\22112019_Mittelwert\obj\Debug\_22112019_Mittelwert.Properties.Resources.resources
+C:\Users\Haunschmied.Bastian\source\repos\22112019_Mittelwert\22112019_Mittelwert\obj\Debug\22112019_Mittelwert.csproj.GenerateResource.Cache
+C:\Users\Haunschmied.Bastian\source\repos\22112019_Mittelwert\22112019_Mittelwert\obj\Debug\22112019_Mittelwert.csproj.CoreCompileInputs.cache

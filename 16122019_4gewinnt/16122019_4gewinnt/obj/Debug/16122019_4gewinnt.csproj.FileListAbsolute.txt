@@ -1,0 +1,10 @@
+C:\Users\Haunschmied.Bastian\source\repos\16122019_4gewinnt\16122019_4gewinnt\bin\Debug\16122019_4gewinnt.exe.config
+C:\Users\Haunschmied.Bastian\source\repos\16122019_4gewinnt\16122019_4gewinnt\bin\Debug\16122019_4gewinnt.exe
+C:\Users\Haunschmied.Bastian\source\repos\16122019_4gewinnt\16122019_4gewinnt\bin\Debug\16122019_4gewinnt.pdb
+C:\Users\Haunschmied.Bastian\source\repos\16122019_4gewinnt\16122019_4gewinnt\obj\Debug\16122019_4gewinnt.csprojResolveAssemblyReference.cache
+C:\Users\Haunschmied.Bastian\source\repos\16122019_4gewinnt\16122019_4gewinnt\obj\Debug\_16122019_4gewinnt.Properties.Resources.resources
+C:\Users\Haunschmied.Bastian\source\repos\16122019_4gewinnt\16122019_4gewinnt\obj\Debug\16122019_4gewinnt.csproj.GenerateResource.Cache
+C:\Users\Haunschmied.Bastian\source\repos\16122019_4gewinnt\16122019_4gewinnt\obj\Debug\16122019_4gewinnt.csproj.CoreCompileInputs.cache
+C:\Users\Haunschmied.Bastian\source\repos\16122019_4gewinnt\16122019_4gewinnt\obj\Debug\16122019_4gewinnt.exe
+C:\Users\Haunschmied.Bastian\source\repos\16122019_4gewinnt\16122019_4gewinnt\obj\Debug\16122019_4gewinnt.pdb
+C:\Users\Haunschmied.Bastian\source\repos\16122019_4gewinnt\16122019_4gewinnt\obj\Debug\_16122019_4gewinnt.Form1.resources

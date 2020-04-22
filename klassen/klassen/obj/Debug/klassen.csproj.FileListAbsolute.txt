@@ -1,0 +1,10 @@
+c:\users\haunschmied.bastian\source\repos\klassen\klassen\obj\Debug\klassen.csprojResolveAssemblyReference.cache
+c:\users\haunschmied.bastian\source\repos\klassen\klassen\obj\Debug\klassen.Form1.resources
+c:\users\haunschmied.bastian\source\repos\klassen\klassen\obj\Debug\klassen.Properties.Resources.resources
+c:\users\haunschmied.bastian\source\repos\klassen\klassen\obj\Debug\klassen.csproj.GenerateResource.Cache
+c:\users\haunschmied.bastian\source\repos\klassen\klassen\obj\Debug\klassen.csproj.CoreCompileInputs.cache
+c:\users\haunschmied.bastian\source\repos\klassen\klassen\bin\Debug\klassen.exe.config
+c:\users\haunschmied.bastian\source\repos\klassen\klassen\bin\Debug\klassen.exe
+c:\users\haunschmied.bastian\source\repos\klassen\klassen\bin\Debug\klassen.pdb
+c:\users\haunschmied.bastian\source\repos\klassen\klassen\obj\Debug\klassen.exe
+c:\users\haunschmied.bastian\source\repos\klassen\klassen\obj\Debug\klassen.pdb

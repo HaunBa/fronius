@@ -1,0 +1,10 @@
+c:\users\haunschmied.bastian\source\repos\10122019_tictactoe\10122019_tictactoe\bin\Debug\10122019_tictactoe.exe.config
+c:\users\haunschmied.bastian\source\repos\10122019_tictactoe\10122019_tictactoe\bin\Debug\10122019_tictactoe.exe
+c:\users\haunschmied.bastian\source\repos\10122019_tictactoe\10122019_tictactoe\bin\Debug\10122019_tictactoe.pdb
+c:\users\haunschmied.bastian\source\repos\10122019_tictactoe\10122019_tictactoe\obj\Debug\10122019_tictactoe.csprojResolveAssemblyReference.cache
+c:\users\haunschmied.bastian\source\repos\10122019_tictactoe\10122019_tictactoe\obj\Debug\_10122019_tictactoe.tiktaktoe.resources
+c:\users\haunschmied.bastian\source\repos\10122019_tictactoe\10122019_tictactoe\obj\Debug\_10122019_tictactoe.Properties.Resources.resources
+c:\users\haunschmied.bastian\source\repos\10122019_tictactoe\10122019_tictactoe\obj\Debug\10122019_tictactoe.csproj.GenerateResource.Cache
+c:\users\haunschmied.bastian\source\repos\10122019_tictactoe\10122019_tictactoe\obj\Debug\10122019_tictactoe.csproj.CoreCompileInputs.cache
+c:\users\haunschmied.bastian\source\repos\10122019_tictactoe\10122019_tictactoe\obj\Debug\10122019_tictactoe.exe
+c:\users\haunschmied.bastian\source\repos\10122019_tictactoe\10122019_tictactoe\obj\Debug\10122019_tictactoe.pdb

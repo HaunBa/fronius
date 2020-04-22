@@ -1,0 +1,10 @@
+C:\Users\Haunschmied.Bastian\source\repos\11122019_ArraySorting\11122019_ArraySorting\bin\Debug\11122019_ArraySorting.exe.config
+C:\Users\Haunschmied.Bastian\source\repos\11122019_ArraySorting\11122019_ArraySorting\bin\Debug\11122019_ArraySorting.exe
+C:\Users\Haunschmied.Bastian\source\repos\11122019_ArraySorting\11122019_ArraySorting\bin\Debug\11122019_ArraySorting.pdb
+C:\Users\Haunschmied.Bastian\source\repos\11122019_ArraySorting\11122019_ArraySorting\obj\Debug\11122019_ArraySorting.csprojResolveAssemblyReference.cache
+C:\Users\Haunschmied.Bastian\source\repos\11122019_ArraySorting\11122019_ArraySorting\obj\Debug\_11122019_ArraySorting.Form1.resources
+C:\Users\Haunschmied.Bastian\source\repos\11122019_ArraySorting\11122019_ArraySorting\obj\Debug\_11122019_ArraySorting.Properties.Resources.resources
+C:\Users\Haunschmied.Bastian\source\repos\11122019_ArraySorting\11122019_ArraySorting\obj\Debug\11122019_ArraySorting.csproj.GenerateResource.Cache
+C:\Users\Haunschmied.Bastian\source\repos\11122019_ArraySorting\11122019_ArraySorting\obj\Debug\11122019_ArraySorting.csproj.CoreCompileInputs.cache
+C:\Users\Haunschmied.Bastian\source\repos\11122019_ArraySorting\11122019_ArraySorting\obj\Debug\11122019_ArraySorting.exe
+C:\Users\Haunschmied.Bastian\source\repos\11122019_ArraySorting\11122019_ArraySorting\obj\Debug\11122019_ArraySorting.pdb

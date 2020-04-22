@@ -17,7 +17,7 @@ namespace _20200324_fakultaet
                     return 1;
                 }
 
-                return Fakultaet(n-1)*n;
+                return Fakultaet(n-1)+n;
             }
         }
     }

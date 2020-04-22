@@ -1,0 +1,7 @@
+C:\Users\Haunschmied.Bastian\source\repos\27112019_c_in_21Tagen\27112019_c_in_21Tagen\bin\Debug\27112019_c_in_21Tagen.exe.config
+C:\Users\Haunschmied.Bastian\source\repos\27112019_c_in_21Tagen\27112019_c_in_21Tagen\bin\Debug\27112019_c_in_21Tagen.exe
+C:\Users\Haunschmied.Bastian\source\repos\27112019_c_in_21Tagen\27112019_c_in_21Tagen\bin\Debug\27112019_c_in_21Tagen.pdb
+C:\Users\Haunschmied.Bastian\source\repos\27112019_c_in_21Tagen\27112019_c_in_21Tagen\obj\Debug\27112019_c_in_21Tagen.csprojResolveAssemblyReference.cache
+C:\Users\Haunschmied.Bastian\source\repos\27112019_c_in_21Tagen\27112019_c_in_21Tagen\obj\Debug\27112019_c_in_21Tagen.csproj.CoreCompileInputs.cache
+C:\Users\Haunschmied.Bastian\source\repos\27112019_c_in_21Tagen\27112019_c_in_21Tagen\obj\Debug\27112019_c_in_21Tagen.exe
+C:\Users\Haunschmied.Bastian\source\repos\27112019_c_in_21Tagen\27112019_c_in_21Tagen\obj\Debug\27112019_c_in_21Tagen.pdb

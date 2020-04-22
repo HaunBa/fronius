@@ -1,0 +1,10 @@
+C:\Users\Haunschmied.Bastian\source\repos\26112019_bmi\26112019_bmi\bin\Debug\26112019_bmi.exe.config
+C:\Users\Haunschmied.Bastian\source\repos\26112019_bmi\26112019_bmi\bin\Debug\26112019_bmi.exe
+C:\Users\Haunschmied.Bastian\source\repos\26112019_bmi\26112019_bmi\bin\Debug\26112019_bmi.pdb
+C:\Users\Haunschmied.Bastian\source\repos\26112019_bmi\26112019_bmi\obj\Debug\26112019_bmi.csprojResolveAssemblyReference.cache
+C:\Users\Haunschmied.Bastian\source\repos\26112019_bmi\26112019_bmi\obj\Debug\_26112019_bmi.Form1.resources
+C:\Users\Haunschmied.Bastian\source\repos\26112019_bmi\26112019_bmi\obj\Debug\_26112019_bmi.Properties.Resources.resources
+C:\Users\Haunschmied.Bastian\source\repos\26112019_bmi\26112019_bmi\obj\Debug\26112019_bmi.csproj.GenerateResource.Cache
+C:\Users\Haunschmied.Bastian\source\repos\26112019_bmi\26112019_bmi\obj\Debug\26112019_bmi.csproj.CoreCompileInputs.cache
+C:\Users\Haunschmied.Bastian\source\repos\26112019_bmi\26112019_bmi\obj\Debug\26112019_bmi.exe
+C:\Users\Haunschmied.Bastian\source\repos\26112019_bmi\26112019_bmi\obj\Debug\26112019_bmi.pdb
